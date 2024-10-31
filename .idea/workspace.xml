@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95d698f7-e4cc-4763-af1b-b8ac671a71ac" name="更改" comment="初始提交">
-      <change afterPath="$PROJECT_DIR$/data/CICIDS2017/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="95d698f7-e4cc-4763-af1b-b8ac671a71ac" name="更改" comment="初始提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.1.executor": "Run",
     "Python.data_exploration.executor": "Run",
     "Python.data_integration.executor": "Run",
@@ -51,6 +49,7 @@
     "Python.visualize_results.executor": "Run",
     "Python.weather_data_integration.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/机器学习大作业",
     "node.js.detected.package.eslint": "true",
@@ -90,7 +89,7 @@
       <workItem from="1729646521245" duration="592000" />
       <workItem from="1729647124352" duration="26407000" />
       <workItem from="1730363526880" duration="140000" />
-      <workItem from="1730364067451" duration="722000" />
+      <workItem from="1730364067451" duration="1094000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <option name="closed" value="true" />
@@ -100,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730364229866</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始提交">
+      <option name="closed" value="true" />
+      <created>1730365031356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730365031356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初始提交">
+      <option name="closed" value="true" />
+      <created>1730365166285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730365166285</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
