@@ -89,7 +89,7 @@
       <workItem from="1729646521245" duration="592000" />
       <workItem from="1729647124352" duration="26407000" />
       <workItem from="1730363526880" duration="140000" />
-      <workItem from="1730364067451" duration="1762000" />
+      <workItem from="1730364067451" duration="2141000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <option name="closed" value="true" />
@@ -131,7 +131,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730365219945</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="初始提交">
+      <option name="closed" value="true" />
+      <created>1730366046662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730366046662</updated>
+    </task>
+    <task id="LOCAL-00007" summary="初始提交">
+      <option name="closed" value="true" />
+      <created>1730366141816</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730366141816</updated>
+    </task>
+    <task id="LOCAL-00008" summary="初始提交">
+      <option name="closed" value="true" />
+      <created>1730366208439</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730366208439</updated>
+    </task>
+    <task id="LOCAL-00009" summary="初始提交">
+      <option name="closed" value="true" />
+      <created>1730366255710</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730366255710</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
