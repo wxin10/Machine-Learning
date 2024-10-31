@@ -693,20 +693,20 @@ if __name__ == "__main__":
 
 - **`feature_importance.png`**：该图像展示了模型的特征重要性，说明了哪些特征对模型的决策有着较大的影响。特征重要性帮助你了解哪些输入变量对模型的预测贡献最大，有助于解释模型的行为。
 
-  ![feature_importance](..\results\feature_importance.png)
+  ![feature_importance](results/feature_importance.png)
 
 - **`performance_metrics.csv`**：这是模型整体评估结果的文件，包含了如准确率（accuracy）、精确率（precision）、召回率（recall）和 F1-score 等关键指标，帮助量化模型的性能。
 
-   [performance_metrics.csv](..\results\performance_metrics.csv) 
+   [performance_metrics.csv](results/performance_metrics.csv) 
 
 - **`classification_report.csv`**：分类报告文件，提供了每个类别的详细评估指标，包括精确率、召回率、F1-score 和支持度。这份报告有助于深入分析模型在各类别上的表现。
 
-   [classification_report.csv](..\results\classification_report.csv) 
+   [classification_report.csv](results/classification_report.csv) 
 
 - **`confusion_matrix.csv`**：这是混淆矩阵的 CSV 文件，与 `confusion_matrix.png` 图像内容相同，但以表格形式呈现。该文件方便你进一步进行数据分析或将数据导入其他工具中进行处理。
 
-   [confusion_matrix.csv](..\results\confusion_matrix.csv) 
+   [confusion_matrix.csv](results/confusion_matrix.csv) 
 
 - **`precision_by_class.png`**：这是按类别展示的精确率条形图，通过图像可以直观了解模型在每个类别上的分类精确率，帮助你快速定位模型在哪些类别上表现更好，哪些类别可能需要进一步优化。
 
-  ![precision_by_class](..\results\precision_by_class.png)
+  ![precision_by_class](results/precision_by_class.png)
