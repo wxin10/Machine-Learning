@@ -689,7 +689,7 @@ if __name__ == "__main__":
 
 - **`confusion_matrix.png`**：这是模型的混淆矩阵图像，用于展示模型在每个类别上的预测结果与真实结果之间的对应关系。通过观察混淆矩阵，你可以了解模型在哪些类别上表现较好，以及在哪些类别之间存在较多的混淆。
 
-  ![confusion_matrix](../results/confusion_matrix.png)
+  ![confusion_matrix](results/confusion_matrix.png)
 
 - **`feature_importance.png`**：该图像展示了模型的特征重要性，说明了哪些特征对模型的决策有着较大的影响。特征重要性帮助你了解哪些输入变量对模型的预测贡献最大，有助于解释模型的行为。
 
