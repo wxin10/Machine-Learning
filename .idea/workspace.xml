@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d698f7-e4cc-4763-af1b-b8ac671a71ac" name="更改" comment="初始提交">
-      <change beforePath="$PROJECT_DIR$/data/processed/combined_preprocessed_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/random_forest_model.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <workItem from="1729647124352" duration="26407000" />
       <workItem from="1730363526880" duration="140000" />
       <workItem from="1730364067451" duration="2606000" />
-      <workItem from="1730366994442" duration="2405000" />
+      <workItem from="1730366994442" duration="3650000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <option name="closed" value="true" />
@@ -263,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730371509743</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="初始提交">
+      <option name="closed" value="true" />
+      <created>1730373057675</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730373057675</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
